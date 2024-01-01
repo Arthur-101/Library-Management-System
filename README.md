@@ -12,8 +12,8 @@ statistics, manage students, and control the library's book inventory.
 3.  Requirements
 4.  Installation
 5.  Usage
-     ###  Student Interface
-     ###  Admin Interface
+ 51.  Student Interface
+ 52.  Admin Interface
 6.  Database Structure
 7.  Modules Used
 8.  File Structure
@@ -27,28 +27,28 @@ information.
 
 ##  2.  Features<a name="features"></a>
 ### For Students:
-  User registration and login.
-  View profile information.
-  Display borrowed books.
-  Browse and search for available books.
-  Borrow and return books.
+1.  User registration and login.
+2.  View profile information.
+3.  Display borrowed books.
+4.  Browse and search for available books.
+5.  Borrow and return books.
 
 ### For Admins:
-  Admin registration and login.
-  View profile information and library statistics.
-  Manage student information.
-  Browse and search for all books in the library.
-  Add, remove, and update books in the library.
+1.  Admin registration and login.
+2.  View profile information and library statistics.
+3.  Manage student information.
+4.  Browse and search for all books in the library.
+5.  Add, remove, and update books in the library.
 
 ##  3.  Requirements
- `Python 3.11`
- `customtkinter` module
- `time` module
- `PIL` (Python Imaging Library) module
- `sqlite3` module
- `os` module
- `hashlib` module
- `random` module
+1. `Python 3.11`
+2. `customtkinter` module
+3. `time` module
+4. `PIL` (Python Imaging Library) module
+5. `sqlite3` module
+6. `os` module
+7. `hashlib` module
+8. `random` module
 
 ##  4.  Installation<a name="installation"></a>
 1. Run packageinstaller.py to install the necessary packages.
@@ -73,52 +73,52 @@ information.
 The system uses an SQLite database named mydatabase.db with the following tables:
 
 ### admindetail:
-admname
-password
-email
-pfp (profile picture)
+admname,
+password,
+email,
+pfp 
 
 ### studentdetail:
-username
-password
-class
-email
-pfp (profile picture)
+username,
+password,
+class,
+email,
+pfp 
 
 ### booksdetail:
-bid (Book ID)
-title
-subject
-author
-status (available or unavailable)
+bid,
+title,
+subject,
+author,
+status 
 
 ### bookissuedetail:
-bid (foreign key connected with booksdetail)
-username (foreign key connected with studentdetail
+bid (foreign key connected with booksdetail),
+username (foreign key connected with studentdetail)
 
 ##  7.  Modules Used
-`customtkinter`: Customized graphical user interface.
-`time`: Time-related functions.
-`PIL`: Python Imaging Library for image processing.
-`sqlite3`: SQLite database management.
-`os`: Operating system interaction.
-`hashlib`: Hashing passwords for security.
-`random`: Generating random values.
+1. `customtkinter`: Customized graphical user interface.
+2. `time`: Time-related functions.
+3. `PIL`: Python Imaging Library for image processing.
+4. `sqlite3`: SQLite database management.
+5. `os`: Operating system interaction.
+6. `hashlib`: Hashing passwords for security.
+7. `random`: Generating random values.
 
 ##  8.  File Structure
-`lib_sys.py`: Main program file.
-`packageinstaller.py`: Installs required packages.
-`pfp/`: Folder containing profile pictures for students.
-`admpfp/`: Folder containing profile pictures for administrators.
-`Items/`: Folder containing icons, `booksdata.txt`, and `about.txt`.
-`booksdata.txt`: Initial data for books.
-`about.txt`: Information about the library management system.
+1. `lib_sys.py`: Main program file.
+2. `packageinstaller.py`: Installs required packages.
+3. `pfp/`: Folder containing profile pictures for students.
+4. `admpfp/`: Folder containing profile pictures for administrators.
+5. `Items/`: Folder containing icons, `booksdata.txt`, and `about.txt`.
+6. `booksdata.txt`: Initial data for books.
+7. `about.txt`: Information about the library management system.
 
 ##  9.  Contribution
 The Library Management System project was developed by 
-Saurav Kumar,
-Raj Verma,
-Pallav,
-Zeeshan
+[Saurav Kumar, 
+Raj Verma, 
+Pallav, 
+Zeeshan]
 as a school project.
 
