@@ -106,7 +106,7 @@ username (foreign key connected with studentdetail)
 7. `random`: Generating random values.
 
 ##  8.  File Structure
-1. `main.py`: Main program file.
+1. `Main.py`: Main program file.
 2. `packageinstaller.py`: Installs required packages.
 3. `pfp/`: Folder containing profile pictures for students.
 4. `admpfp/`: Folder containing profile pictures for administrators.
