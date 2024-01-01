@@ -1,0 +1,100 @@
+B001,The Great Gatsby,Fiction,F. Scott Fitzgerald,Available
+B002,To Kill a Mockingbird,Fiction,Harper Lee,Available
+B003,1984,Science Fiction,George Orwell,Available
+B004,Pride and Prejudice,Romance,Jane Austen,Available
+B005,The Catcher in the Rye,Fiction,J.D. Salinger,Available
+B006,One Hundred Years of Solitude,Magic Realism,Gabriel Garcia Marquez,Available
+B007,The Hobbit,Fantasy,J.R.R. Tolkien,Available
+B008,The Da Vinci Code,Mystery,Dan Brown,Available
+B009,The Alchemist,Adventure,Paulo Coelho,Available
+B010,The Hunger Games,Science Fiction,Suzanne Collins,Available
+B011,Brave New World,Dystopian,Aldous Huxley,Available
+B012,Fahrenheit 451,Dystopian,Ray Bradbury,Available
+B013,The Lord of the Rings,Fantasy,J.R.R. Tolkien,Available
+B014,Harry Potter and the Sorcerer's Stone,Fantasy,J.K. Rowling,Available
+B015,The Shining,Horror,Stephen King,Available
+B016,Animal Farm,Political Satire,George Orwell,Available
+B017,The Road,Post-Apocalyptic,Cormac McCarthy,Available
+B018,The God of Small Things,Contemporary Fiction,Arundhati Roy,Available
+B019,The Kite Runner,Historical Fiction,Khaled Hosseini,Available
+B020,Wuthering Heights,Gothic Fiction,Emily Brontë,Available
+B021,The Girl with the Dragon Tattoo,Crime Fiction,Stieg Larsson,Available
+B022,The Color Purple,Drama,Alice Walker,Available
+B023,The Picture of Dorian Gray,Gothic,Oscar Wilde,Available
+B024,The War of the Worlds,Science Fiction,H.G. Wells,Available
+B025,The Chronicles of Narnia,Fantasy,C.S. Lewis,Available
+B026,Siddhartha,Philosophical,Hermann Hesse,Available
+B027,Life of Pi,Adventure,Yann Martel,Available
+B028,Moby-Dick,Adventure,Herman Melville,Available
+B029,Crime and Punishment,Psychological,Fyodor Dostoevsky,Available
+B030,The Odyssey,Classical,Homer,Available
+B031,Anna Karenina,Romance,Leo Tolstoy,Available
+B032,The Road Not Taken,Poetry,Robert Frost,Available
+B033,The Adventures of Sherlock Holmes,Mystery,Arthur Conan Doyle,Available
+B034,The Grapes of Wrath,Realistic Fiction,John Steinbeck,Available
+B035,Inferno,Mystery,Dan Brown,Available
+B036,The Three Musketeers,Adventure,Alexandre Dumas,Available
+B037,The Jungle,Political Fiction,Upton Sinclair,Available
+B038,The Sun Also Rises,Literary Fiction,Ernest Hemingway,Available
+B039,The Count of Monte Cristo,Adventure,Alexandre Dumas,Available
+B040,Les Misérables,Historical Novel,Victor Hugo,Available
+B041,The Prince,Political Philosophy,Niccolò Machiavelli,Available
+B042,The Old Man and the Sea,Novella,Ernest Hemingway,Available
+B043,The Scarlet Letter,Romance,Nathaniel Hawthorne,Available
+B044,The Fountainhead,Philosophical,Ayn Rand,Available
+B045,Dune,Science Fiction,Frank Herbert,Available
+B046,Heart of Darkness,Novella,Joseph Conrad,Available
+B047,The Canterbury Tales,Poetry,Geoffrey Chaucer,Available
+B048,The Martian,Science Fiction,Andy Weir,Available
+B049,Dracula,Gothic,Bram Stoker,Available
+B050,A Tale of Two Cities,Historical Novel,Charles Dickens,Available
+B051,The Great Expectations,Novel,Charles Dickens,Available
+B052,The Wind in the Willows,Children's Literature,Kenneth Grahame,Available
+B053,The Time Machine,Science Fiction,H.G. Wells,Available
+B054,The Hound of the Baskervilles,Mystery,Arthur Conan Doyle,Available
+B055,The Joy Luck Club,Contemporary Fiction,Amy Tan,Available
+B056,The Diary of a Young Girl,Autobiography,Anne Frank,Available
+B057,The Outsiders,Coming-of-age,S.E. Hinton,Available
+B058,A Wrinkle in Time,Science Fantasy,Madeleine L'Engle,Available
+B059,The Road to Wigan Pier,Social Commentary,George Orwell,Available
+B060,The Stranger,Philosophical,Albert Camus,Available
+B061,All Quiet on the Western Front,War Novel,Erich Maria Remarque,Available
+B062,The Art of War,Military Strategy,Sun Tzu,Available
+B063,The Handmaid's Tale,Dystopian,Margaret Atwood,Available
+B064,The Secret Garden,Children's Literature,Frances Hodgson Burnett,Available
+B065,The Invisible Man,Science Fiction,H.G. Wells,Available
+B066,The Call of the Wild,Adventure,Jack London,Available
+B067,Walden,Philosophical,Henry David Thoreau,Available
+B068,The Metamorphosis,Novella,Franz Kafka,Available
+B069,War and Peace,Historical Novel,Leo Tolstoy,Available
+B070,The Sound and the Fury,Modernist,William Faulkner,Available
+B071,One Flew Over the Cuckoo's Nest,Psychological,Ken Kesey,Available
+B072,The Brothers Karamazov,Philosophical,Fyodor Dostoevsky,Available
+B073,The Republic,Philosophical,Plato,Available
+B074,The Iliad,Epic Poetry,Homer,Available
+B075,The Aeneid,Epic Poetry,Virgil,Available
+B076,Things Fall Apart,Historical Fiction,Chinua Achebe,Available
+B077,The Little Prince,Children's Literature,Antoine de Saint-Exupéry,Available
+B078,The Hand of Ethelberta,Social Comedy,Thomas Hardy,Available
+B079,The Lost World,Science Fiction,Sir Arthur Conan Doyle,Available
+B080,The Guide,Social Satire,R.K. Narayan,Available
+B081,Malgudi Days,Short Stories,R.K. Narayan,Available
+B082,The Palace of Illusions,Mythological Fiction,Chitra Banerjee Divakaruni,Available
+B083,The White Tiger,Contemporary Fiction,Aravind Adiga,Available
+B084,Interpreter of Maladies,Short Stories,Jhumpa Lahiri,Available
+B085,Train to Pakistan,Historical Fiction,Khushwant Singh,Available
+B086,The God of Small Things,Contemporary Fiction,Arundhati Roy,Available
+B087,Shadow Lines,Postcolonial Fiction,Amitav Ghosh,Available
+B088,A Suitable Boy,Family Saga,Vikram Seth,Available
+B089,The Namesake,Contemporary Fiction,Jhumpa Lahiri,Available
+B090,The Guide,Social Satire,R.K. Narayan,Available
+B091,Sita: Warrior of Mithila,Mythological Fiction,Amish Tripathi,Available
+B092,The Immortals of Meluha,Mythological Fiction,Amish Tripathi,Available
+B093,The Great Indian Novel,Satirical Novel,Shashi Tharoor,Available
+B094,The Inheritance of Loss,Postcolonial Fiction,Kiran Desai,Available
+B095,The Lowland,Historical Fiction,Jhumpa Lahiri,Available
+B096,Half Girlfriend,Romance,Chetan Bhagat,Available
+B097,One Indian Girl,Contemporary Fiction,Chetan Bhagat,Available
+B098,The Palace of Illusions,Mythological Fiction,Chitra Banerjee Divakaruni,Available
+B099,The Glass Palace,Historical Fiction,Amitav Ghosh,Available
+B100,A Fine Balance,Historical Fiction,Rohinton Mistry,Available
