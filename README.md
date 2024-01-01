@@ -41,14 +41,14 @@ information.
 *  Add, remove, and update books in the library.
 
 ##  3.  Requirements
-1. `~~Python 3.11~~`
-2. `*customtkinter*` module
-3. `time` module
-4. `PIL` (Python Imaging Library) module
-5. `sqlite3` module
-6. `os` module
-7. `hashlib` module
-8. `random` module
+1. **`Python 3.11`**
+2. *`customtkinter`* module
+3. *`time`* module
+4. *`PIL`* (Python Imaging Library) module
+5. *`sqlite3`* module
+6. *`os`* module
+7. *`hashlib`* module
+8. *`random`* module
 
 ##  4.  Installation
 1. Run packageinstaller.py to install the necessary packages.
