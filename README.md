@@ -25,7 +25,7 @@ two main interfaces: one for students and another for administrators. Students c
 return books, while administrators can manage library statistics, oversee book inventory, and handle student 
 information.
 
-##  2.  Features<a name="features"></a>
+##  2.  Features
 ### For Students:
 1.  User registration and login.
 2.  View profile information.
@@ -50,19 +50,19 @@ information.
 7. `hashlib` module
 8. `random` module
 
-##  4.  Installation<a name="installation"></a>
+##  4.  Installation
 1. Run packageinstaller.py to install the necessary packages.
 2. Execute lib_sys.py to start the Library Management System.
 
-##  5.  Usage<a name="usage"></a>
-### > Student Interface<a name="student-interface"></a>
+##  5.  Usage
+### > Student Interface
 1. Click the "Student" button.
 2. Register with User ID, password, class, and email.
 3. Login with the registered username and password.
 4. View profile, borrowed books, and available books.
 5. Borrow and return books as needed.
 
-### > Admin Interface<a name="admin-interface"></a>
+### > Admin Interface
 1. Click the "Admin" button.
 2. Register with username, password, email, and unique library ID.
 3. Login with the registered username and password.
@@ -116,9 +116,9 @@ username (foreign key connected with studentdetail)
 
 ##  9.  Contribution
 The Library Management System project was developed by 
-[Saurav Kumar, 
-Raj Verma, 
-Pallav, 
+[Saurav Kumar,
+Raj Verma,
+Pallav,
 Zeeshan]
 as a school project.
 
