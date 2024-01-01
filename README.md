@@ -41,8 +41,8 @@ information.
 *  Add, remove, and update books in the library.
 
 ##  3.  Requirements
-1. `Python 3.11`
-2. `customtkinter` module
+1. `~~Python 3.11~~`
+2. `*customtkinter*` module
 3. `time` module
 4. `PIL` (Python Imaging Library) module
 5. `sqlite3` module
