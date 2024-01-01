@@ -12,8 +12,8 @@ statistics, manage students, and control the library's book inventory.
 3.  Requirements
 4.  Installation
 5.  Usage
- 51.  Student Interface
- 52.  Admin Interface
+  *  Student Interface
+  *  Admin Interface
 6.  Database Structure
 7.  Modules Used
 8.  File Structure
