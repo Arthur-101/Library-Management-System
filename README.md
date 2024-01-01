@@ -27,18 +27,18 @@ information.
 
 ##  2.  Features
 ### For Students:
-1.  User registration and login.
-2.  View profile information.
-3.  Display borrowed books.
-4.  Browse and search for available books.
-5.  Borrow and return books.
+*  User registration and login.
+*  View profile information.
+*  Display borrowed books.
+*  Browse and search for available books.
+*  Borrow and return books.
 
 ### For Admins:
-1.  Admin registration and login.
-2.  View profile information and library statistics.
-3.  Manage student information.
-4.  Browse and search for all books in the library.
-5.  Add, remove, and update books in the library.
+*  Admin registration and login.
+*  View profile information and library statistics.
+*  Manage student information.
+*  Browse and search for all books in the library.
+*  Add, remove, and update books in the library.
 
 ##  3.  Requirements
 1. `Python 3.11`
@@ -56,45 +56,45 @@ information.
 
 ##  5.  Usage
 ### > Student Interface
-1. Click the "Student" button.
-2. Register with User ID, password, class, and email.
-3. Login with the registered username and password.
-4. View profile, borrowed books, and available books.
-5. Borrow and return books as needed.
+* Click the "Student" button.
+* Register with User ID, password, class, and email.
+* Login with the registered username and password.
+* View profile, borrowed books, and available books.
+* Borrow and return books as needed.
 
 ### > Admin Interface
-1. Click the "Admin" button.
-2. Register with username, password, email, and unique library ID.
-3. Login with the registered username and password.
-4. View profile, library statistics, and manage students.
-5. Browse, search, and manage all books in the library.
+* Click the "Admin" button.
+* Register with username, password, email, and unique library ID.
+* Login with the registered username and password.
+* View profile, library statistics, and manage students.
+* Browse, search, and manage all books in the library.
 
 ##  6.  Database Structure
 The system uses an SQLite database named mydatabase.db with the following tables:
 
 ### admindetail:
-admname,
-password,
-email,
-pfp 
+- admname,
+- password,
+- email,
+- pfp 
 
 ### studentdetail:
-username,
-password,
-class,
-email,
-pfp 
+- username,
+- password,
+- class,
+- email,
+- pfp 
 
 ### booksdetail:
-bid,
-title,
-subject,
-author,
-status 
+- bid,
+- title,
+- subject,
+- author,
+- status 
 
 ### bookissuedetail:
-bid (foreign key connected with booksdetail),
-username (foreign key connected with studentdetail)
+- bid (foreign key connected with booksdetail),
+- username (foreign key connected with studentdetail)
 
 ##  7.  Modules Used
 1. `customtkinter`: Customized graphical user interface.
