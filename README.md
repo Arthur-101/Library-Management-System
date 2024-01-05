@@ -120,5 +120,5 @@ The Library Management System project was developed by
 Raj Verma,
 Pallav,
 Zeeshan]
-as a school project.
+as a school project
 
