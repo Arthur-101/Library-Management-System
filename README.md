@@ -116,9 +116,6 @@ The system uses an SQLite database named mydatabase.db with the following tables
 
 ##  9.  Contribution
 The Library Management System project was developed by 
-[Saurav Kumar,
-Raj Verma,
-Pallav,
-Zeeshan]
+[Saurav Kumar]
 as a school project.
 
