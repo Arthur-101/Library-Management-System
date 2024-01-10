@@ -1,6 +1,6 @@
 ### This Program will install all the Necessary Libraries/Packages required 
 ### to Run the Liberary management system.
-### Run this program before running the main file.
+########## Run this program before running the main file.
 
 
 import subprocess
